@@ -19,7 +19,7 @@ export default function Home() {
         <section className={styles.main}>
           <Header />
           <HeroSection />
-          <AirdropPopUp />
+          
         </section>
         <TrendingSection />
       </section>
