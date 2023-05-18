@@ -1,7 +1,9 @@
 {
   "pages": {
     "/portfolio": [],
-    "/": []
+    "/mmcollection": [],
+    "/": [],
+    "/viewCollection": []
   },
   "app": {},
   "appUsingSizeAdjust": false,

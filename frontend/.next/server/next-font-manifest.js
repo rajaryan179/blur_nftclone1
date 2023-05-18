@@ -1,9 +1,1 @@
-self.__NEXT_FONT_MANIFEST={
-  "pages": {
-    "/portfolio": [],
-    "/": []
-  },
-  "app": {},
-  "appUsingSizeAdjust": false,
-  "pagesUsingSizeAdjust": false
-}
+self.__NEXT_FONT_MANIFEST={pages:{"/portfolio":[],"/mmcollection":[],"/":[],"/viewCollection":[]},app:{},appUsingSizeAdjust:!1,pagesUsingSizeAdjust:!1};

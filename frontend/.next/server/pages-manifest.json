@@ -1,7 +1,10 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
+  "/portfolio": "pages/portfolio.html",
   "/_document": "pages/_document.js",
-  "/portfolio": "pages/portfolio.js",
-  "/": "pages/index.js"
+  "/_error": "pages/_error.js",
+  "/mmcollection": "pages/mmcollection.html",
+  "/": "pages/index.html",
+  "/viewCollection": "pages/viewCollection.html",
+  "/404": "pages/404.html"
 }
