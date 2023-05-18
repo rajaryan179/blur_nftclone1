@@ -8,7 +8,7 @@ import CardComp from "./card.js";
 export default function getNfts() {
   const [nfts, setNfts] = useState([]);
   const { address } = useAccount();
-  const chain = "0x89";
+  const chain = "0x5";
 
   useEffect(() => {
     let response;
