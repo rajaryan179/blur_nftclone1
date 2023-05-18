@@ -1,7 +1,7 @@
 {
   "pages": {
-    "/": [],
-    "/portfolio": []
+    "/portfolio": [],
+    "/": []
   },
   "app": {},
   "appUsingSizeAdjust": false,
